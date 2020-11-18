@@ -16,7 +16,7 @@ Open Libreoffice and go to *Tools > Options > LibreOffice > View* and change the
 
 ### Screenshots
 
-![](https://raw.github.com/saltedcoffii/libreofffice-style-open2013/master/images/loremipsum.png)
+![loremipsum.png](https://raw.githubusercontent.com/saltedcoffii/libreoffice-style-open2013/master/images/loremipsum.png)
 
 ### License
 This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International Public License. See the [LICENSE](https://raw.github.com/saltedcoffii/libreoffice-style-open2013/master/LICENSE) file or the [Creative Commons Website](https://creativecommons.org/licenses/by-sa/4.0) for more information.
