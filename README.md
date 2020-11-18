@@ -2,7 +2,7 @@
 This is a libreoffice style designed to make the icons look like Microsoft Office 2013.
 
 ### Installation
-Download the zip file from the [releases](https://github.com/saltedcoffii/libreoffice-style-open2013/releases) page and zip the repository into a file called
+Download the zip file from the [releases](https://github.com/saltedcoffii/libreoffice-style-open2013/releases) page.
 ##### Windows
 Move the zip file to `C:\Program Files (x86)\Libreoffice <version number>\share\config
 
