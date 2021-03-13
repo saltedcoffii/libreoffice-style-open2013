@@ -4,10 +4,10 @@ This is a libreoffice style designed to make the icons look like Microsoft Offic
 ### Installation
 Download the zip file from the [releases](https://github.com/saltedcoffii/libreoffice-style-open2013/releases) page.
 ##### Windows
-Move the zip file to `C:\Program Files (x86)\Libreoffice <version number>\share\config
+Move the zip file to `C:\Program Files (x86)\Libreoffice <version number>\share\config`
 
 ##### MacOS
-Move the zip file to `LibreOffice/Contents/Resources/config
+Move the zip file to `LibreOffice/Contents/Resources/config`
 
 ##### Linux
 Move the zip file to, depending on how libreoffice is installed, `/usr/lib/libreoffice/share/config`, `/usr/share/libreoffice/share/config` or `/opt/libreoffice<version>/share/config`. If you aren't sure where to install it, put it in one place and create symlinks (`ln -s`) to the rest. Alternatively, some Linux users may use a prepackaged deb or rpm file from the [releases](https://github.com/saltedcoffii/libreoffice-style-open2013/releases) page if their libreoffice is not installed in `/opt`, and not installed as a flatpak or snap.
